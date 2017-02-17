@@ -1,0 +1,6 @@
+D:\Workspaces\C# Workspace\IAPDownloader\IAPDownloader\bin\Debug\IAPDownloader.exe.config
+D:\Workspaces\C# Workspace\IAPDownloader\IAPDownloader\bin\Debug\IAPDownloader.exe
+D:\Workspaces\C# Workspace\IAPDownloader\IAPDownloader\bin\Debug\IAPDownloader.pdb
+D:\Workspaces\C# Workspace\IAPDownloader\IAPDownloader\obj\Debug\IAPDownloader.csprojResolveAssemblyReference.cache
+D:\Workspaces\C# Workspace\IAPDownloader\IAPDownloader\obj\Debug\IAPDownloader.exe
+D:\Workspaces\C# Workspace\IAPDownloader\IAPDownloader\obj\Debug\IAPDownloader.pdb
